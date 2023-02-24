@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Test Get started by editing&nbsp;
+            Get started by editing&nbsp;
             <code className={styles.code}>pagit push -u origins/index.tsx</code>
           </p>
           <div>
